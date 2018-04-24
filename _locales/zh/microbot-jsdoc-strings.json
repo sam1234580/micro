@@ -11,12 +11,5 @@
 	"microbot.adjustWhite":"顏色感應器校正白色，每次開機第一次使用顏色感應器都必須先校正白色",
 	"microbot.adjustBlack":"顏色感應器校正黑色，每次開機第一次使用顏色感應器都必須先校正白色，然後校正黑色",
 	"microbot.checkCurrentColor":"顏色感應器獲取顏色值，必須先校正白色和黑色方可執行",
-	"microbot.analyzeBluetoothCmd":"解析手機APP發送的藍牙命令類型，一共有9種命令類型：坦克車行進命令，舵機調試命令，獲取超音波距離命令，獲取溫度命令，獲取聲音大小命令，獲取光線強度命令，設置彩燈顏色命令，鳴笛命令，版本訊息命令",
-	"microbot.getArgs":"解析手機App發送的命令參數，舵機調試命令有3個參數，其餘都只有一個參數",
-	"microbot.getCmdtype":"返回命令類型的枚舉，一般在獲取到手機APP發送的藍牙命令類型後，可以與這個模塊進行比對命令類型",
-	"microbot.getRunCarTypeget":"獲取坦克車行進命令類型，有停止、前進、後退、左轉、右轉、慢速前進，慢速左轉，慢速右轉",
-	"microbot.convertUltrasonic":"轉換超音波障礙物距離為標準命令，發送到手機端，APP會顯示超音波障礙物距離",
-	"microbot.convertTemperature":"轉換溫度值為標準命令，發送到手機端，APP會顯示當前溫度",
-	"microbot.convertLight":"轉換光線值為標準命令，發送到手機端，APP會顯示當前光線等級(0~255)",
-	"microbot.littleStarMelody":"小星星旋律"
+
 }
