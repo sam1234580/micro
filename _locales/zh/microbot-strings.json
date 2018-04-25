@@ -30,4 +30,18 @@
 	"RGBColors.Violet|block":"紫羅蘭色",
 	"RGBColors.Purple|block":"紫色",
 	"RGBColors.White|block":"白色",
+	"microbot.CmdType.ULTRASONIC|block":"超音波距離查詢命令",
+	"microbot.CmdType.TEMPERATURE|block":"溫度查詢命令",
+	"microbot.CmdType.SOUND|block":"聲音查詢命令",
+	"microbot.CmdType.LIGHT|block":"光線查詢命令",
+	"microbot.CmdType.BATTERY|block":"電量查詢命令",
+	"microbot.CmdType.RGB_LIGHT|block":"彩燈控制命令",
+	"microbot.CmdType.DIDI|block":"鳴笛命令",
+	"microbot.convertUltrasonic|block":"轉換超音波命令 %data",
+	"microbot.convertTemperature|block":"轉換溫度命令 %data",
+	"microbot.convertSound|block":"轉換聲音命令 %data",
+	"microbot.convertLight|block":"轉換光線命令 %data",
+	"microbot.littleStarMelody|block":"小星星旋律",
+	"microbot.SendType.NoDelaySend|block":"立即設置",
+	"microbot.SendType.DelaySend|block":"延時設置"
 }
